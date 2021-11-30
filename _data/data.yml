@@ -63,11 +63,12 @@ education:
         Write stuff here.
           - Bullet point
           - Bullet point
+
 experiences:
     - role: Zach Experience 1
       time: 2015 - Present
       company: Startup Hubs, San Francisco
-      details: | test test test
+      details: |
         Write stuff here.
           - Bullet point
           - Bullet point
@@ -78,6 +79,7 @@ experiences:
         Write stuff here.
           - Bullet point
           - Bullet point
+
 experiences:
     - role: Zach Experience 1
       time: 2015 - Present
