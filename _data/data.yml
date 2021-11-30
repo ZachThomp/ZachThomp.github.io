@@ -79,23 +79,14 @@ experiences:
         Write stuff here.
           - Bullet point
           - Bullet point
-
-experiences:
-    - role: Zach Experience 1
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Write stuff here.
-          - Bullet point
-          - Bullet point
-    - role: Zach Experience 2
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Write stuff here.
-          - Bullet point
-          - Bullet point
     - role: Zach Experience 3
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Write stuff here.
+          - Bullet point
+          - Bullet point
+    - role: Zach Experience 4
       time: 2012 - 2014
       company: Amazon, London
       details: |
