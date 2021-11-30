@@ -47,8 +47,7 @@ career-profile:
     title: Career Profile
     summary: |
       Write stuff here.
-      <iframe width="310" height="230" src="https://www.youtube.com/embed/p-YRZKxC5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="310" height="230" src="https://www.youtube.com/embed/p-YRZKxC5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+      <iframe width="310" height="230" src="https://www.youtube.com/embed/p-YRZKxC5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             
 education:
     - degree: 8th Grade
@@ -74,8 +73,8 @@ experiences:
         Write stuff here.
           - Bullet point
           - Bullet point
-    - role: Zach Experience 2
-      time: 2014 - 2015
+    - role: <iframe width="310" height="230" src="https://www.youtube.com/embed/p-YRZKxC5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      time: <iframe width="310" height="230" src="https://www.youtube.com/embed/p-YRZKxC5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       company: Google, London
       details: |
         Write stuff here.
