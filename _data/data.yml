@@ -74,7 +74,7 @@ experiences:
           - Bullet point
           - Bullet point
     - role: <iframe width="310" height="230" src="https://www.youtube.com/embed/p-YRZKxC5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      time: <iframe width="310" height="230" src="https://www.youtube.com/embed/p-YRZKxC5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      time:    <iframe width="310" height="230" src="https://www.youtube.com/embed/p-YRZKxC5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       company: Google, London
       details: |
         Write stuff here.
