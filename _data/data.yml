@@ -47,10 +47,12 @@ career-profile:
     title: PROJECTS
     summary: |
       My Stop Motion Camera Video.
+      <iframe width="732" height="412" src="https://www.youtube.com/embed/UGyylwsW1_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+      
+      My Texas Alamo Project in Minecraft.
       <iframe width="310" height="175" src="https://www.youtube.com/embed/p-YRZKxC5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      My Stop Motion Camera Video.
-      <iframe width="310" height="175" src="https://www.youtube.com/embed/p-YRZKxC5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      My Stop Motion Camera Video.
+      
+      My Rubik's Cube Video.
       <iframe width="310" height="175" src="https://www.youtube.com/embed/p-YRZKxC5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 education:
@@ -68,6 +70,27 @@ education:
         Write stuff here.
           - Bullet point
           - Bullet point
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 footer: >
     Designed by Zachary Thompson
