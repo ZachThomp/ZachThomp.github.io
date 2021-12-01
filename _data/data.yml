@@ -12,36 +12,12 @@ sidebar:
     avatar: Zach111 - Copy.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: z@gmail.com
-    phone: 000-000-0000
     website: zachthomp.github.io #do not add http://
     linkedin: 
     github: ZachThomp
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
-
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Learning
-
-    interests:
-      - item: Computer Coding
-        link:
-
-      - item: Swimming
-        link:
-
-      - item: PS5 Gaming
-        link:
 
 career-profile:
     title: MY PROJECTS
@@ -58,16 +34,10 @@ career-profile:
           
       My Rubik's Cube Video.
       <iframe width="310" height="175" src="https://www.youtube.com/embed/p-YRZKxC5as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      
-      .      
 
-      .
-
-      .
-
-      .
-
-
+          - .
+          - .
+          
 education:
     - degree: 8th Grade
       university: Cornerstone Academy
