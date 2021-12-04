@@ -23,20 +23,14 @@ career-profile:
     title: PROJECTS
     summary: Various project I have worked on! |
     
-      <iframe width="645" height="350" src="https://www.youtube.com/embed/hkVoNhA8SeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="645" height="350" src="https://www.youtube.com/embed/UGyylwsW1_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
-      <iframe width="645" height="350" src="https://www.youtube.com/embed/sT_IS1zSU1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-
+      <iframe width="640" height="350" src="https://www.youtube.com/embed/hkVoNhA8SeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="640" height="350" src="https://www.youtube.com/embed/UGyylwsW1_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+      <iframe width="640" height="350" src="https://www.youtube.com/embed/sT_IS1zSU1c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 education:
     - degree: 8th Grader
-      university: Cornerstone Academy; Gateway to Computer Science; Principles of Technology
+      university: Cornerstone Academy. Gateway to Computer Science. Principles of Technology
       time: 2019 - 2022
     - degree: iDTech.com
       university: JavaScript Coding Powered by MIT Open Learning
@@ -46,28 +40,28 @@ education:
           - Bullet point
           - Bullet point
     - degree: iDTech.com
-      university: Level 1 Certificate: Python & Java Coding
+      university: Level 1 Certificate. Python & Java Coding
       time: 2021
       details: |
         Write stuff here.
           - Bullet point
           - Bullet point
     - degree: iDTech.com
-      university: Level 2 Certificate: Python & Java Coding
+      university: Level 2 Certificate. Python & Java Coding
       time: 2021
       details: |
         Write stuff here.
           - Bullet point
           - Bullet point
     - degree: iDTech.com
-      university: Proficiency: Roblox Game Design- Coding & Monetization
+      university: Proficiency. Roblox Game Design Coding & Monetization
       time: 2020
       details: |
         Write stuff here.
           - Bullet point
           - Bullet point
     - degree: iDTech.com
-      university: Proficiency: Minecraft Modding w/ JavaScript
+      university: Proficiency. Minecraft Modding w JavaScript
       time: 2021
       details: |
         Write stuff here.
