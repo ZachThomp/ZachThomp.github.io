@@ -40,19 +40,7 @@ education:
       university: Cornerstone Academy
       time: 2019 - 2022
     - degree: iDTech.com
-      university: JavaScript Coding Powered by MIT Open Learning (2021)
-      university: Level 1 Certificate - Python & Java Coding (2021)
-      university: Cornerstone Academy
-      university: Cornerstone Academy
-      university: Cornerstone Academy
-      university: Cornerstone Academy
-      time: 2019 - 2022
-      details: |
-        Write stuff here.
-          - Bullet point
-          - Bullet point
-    - degree: 8th Grade
-      university: Cornerstone Academy
+      university: JavaScript Coding Powered by MIT Open Learning
       time: 2019 - 2022
       details: |
         Write stuff here.
