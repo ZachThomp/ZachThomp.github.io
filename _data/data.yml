@@ -55,6 +55,20 @@ education:
         Write stuff here.
           - Bullet point
           - Bullet point
+    - degree: 8th Grade
+      university: Cornerstone Academy
+      time: 2019 - 2022
+      details: |
+        Write stuff here.
+          - Bullet point
+          - Bullet point
+    - degree: 8th Grade
+      university: Cornerstone Academy
+      time: 2019 - 2022
+      details: |
+        Write stuff here.
+          - Bullet point
+          - Bullet point
 
 
 
