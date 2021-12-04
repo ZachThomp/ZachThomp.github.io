@@ -34,24 +34,48 @@ education:
         Write stuff here.
           - Bullet point
           - Bullet point
-    - degree: Java Script Coding
+    - degree: JavaScript Codeing Powered by MIT Open Learning
       university: Id-Tech    
       time: 2021 - 2021
       details: |
         Wr.
           - Bullet point
           - Bullet point
-    - degree: Java Script Coding
+    - degree: Coding: Python and Java (Level 1 Cerificate)
       university: Id-Tech    
       time: 2021 - 2021
       details: |
         Wr.
           - Bullet point
           - Bullet point
-
-
-
-
+    - degree: Coding: Python and Java (Level 2 Cerificate)
+      university: Id-Tech    
+      time: 2021 - 2021
+      details: |
+        Wr.
+          - Bullet point
+          - Bullet point
+    - degree: Roblox Game Design: Coding and Monetization (Proficiency)
+      university: Id-Tech    
+      time: 2020 - 2020
+      details: |
+        Wr.
+          - Bullet point
+          - Bullet point          
+    - degree: Minecraft Modding with Java Script (Proficiency)
+      university: Id-Tech    
+      time: 2020 - 2020
+      details: |
+        Wr.
+          - Bullet point
+          - Bullet point
+    - degree: Gateway to Computer Science; Principles of Technology; Speech
+      university: Cornerston Academy    
+      time: 2020 - 2021
+      details: |
+        Wr.
+          - Bullet point
+          - Bullet point
 
 
 
