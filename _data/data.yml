@@ -21,7 +21,7 @@ sidebar:
 
 career-profile:
     title: PROJECTS
-    summary: |
+    summary: dsfjhdkjfhdkjhs |
       <iframe width="620" height="350" src="https://www.youtube.com/embed/hkVoNhA8SeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
       <iframe width="620" height="350" src="https://www.youtube.com/embed/UGyylwsW1_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
@@ -49,40 +49,6 @@ education:
     - degree: iDTech.com
       university: JavaScript Coding Powered by MIT Open Learning
       time: 2021
-      details: |
-        Write stuff here.
-          - Bullet point
-          - Bullet point
-        
-        
-        
-        
-        
-        
-        - degree: iDTech.com
-      university: Level 1 Certificate: Python & Java Coding
-      time: 2021
-      details: |
-        Write stuff here.
-          - Bullet point
-          - Bullet point
-    - degree: iDTech.com
-      university: Level 2 Certificate: Python & Java Coding
-      time: 2021
-      details: |
-        Write stuff here.
-          - Bullet point
-          - Bullet point
-    - degree: iDTech.com
-      university: Proficiency: Roblox Game Design - Coding & Monetization
-      time: 2020
-      details: |
-        Write stuff here.
-          - Bullet point
-          - Bullet point
-    - degree: iDTech.com
-      university: Proficiency: Minecraft Modding w/ Java Script
-      time: 2020
       details: |
         Write stuff here.
           - Bullet point
